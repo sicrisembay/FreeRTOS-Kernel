@@ -60,7 +60,7 @@
 #endif
 
 #ifdef MPLAB_DSPIC_PORT
-    #include "../../Source/portable/MPLAB/PIC24_dsPIC/portmacro.h"
+    #include "../portable/MPLAB/PIC24_dsPIC/portmacro.h"
 #endif
 
 #ifdef MPLAB_PIC18F_PORT
